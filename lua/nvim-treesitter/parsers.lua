@@ -162,7 +162,7 @@ list.bash = {
 list.firrtl = {
   install_info = {
     url = "https://github.com/chipsalliance/tree-sitter-firrtl",
-    files = { "src/scanner.cc" },
+    files = { "src/parser.c", "src/scanner.cc" },
     generate_requires_npm = true,
   },
   filetype = 'firrtl',
