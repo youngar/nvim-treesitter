@@ -159,6 +159,16 @@ list.bash = {
   maintainers = {"@TravonteD"},
 }
 
+list.firrtl = {
+  install_info = {
+    url = "https://github.com/nvim-treesitter/nvim-treesitter",
+    files = { "src/parser.c", "src/scanner.cc" },
+    generate_requires_npm = true,
+  },
+  filetype = 'firrtl',
+  maintainers = { "@youngar" },
+}
+
 list.fish = {
   install_info = {
     url = "https://github.com/krnik/tree-sitter-fish",

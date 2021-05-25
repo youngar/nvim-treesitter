@@ -150,6 +150,7 @@ We are looking for maintainers to add more parsers and to write query files for 
 - [ ] [elm](https://github.com/elm-tooling/tree-sitter-elm)
 - [x] [erlang](https://github.com/AbstractMachinesLab/tree-sitter-erlang) (maintained by @ostera)
 - [x] [fennel](https://github.com/travonted/tree-sitter-fennel) (maintained by @TravonteD)
+- [x] [firrtl](https://github.com/chipsalliance/tree-sitter-firrtl) (maintained by @youngar)
 - [x] [fish](https://github.com/krnik/tree-sitter-fish) (maintained by @krnik, @ram02z)
 - [ ] [fortran](https://github.com/stadelmanma/tree-sitter-fortran)
 - [x] [Godot (gdscript)](https://github.com/PrestonKnopp/tree-sitter-gdscript) (maintained by @Shatur95)
@@ -183,7 +184,8 @@ We are looking for maintainers to add more parsers and to write query files for 
 - [x] [ruby](https://github.com/tree-sitter/tree-sitter-ruby) (maintained by @TravonteD)
 - [x] [rust](https://github.com/tree-sitter/tree-sitter-rust) (maintained by @vigoux)
 - [ ] [scala](https://github.com/tree-sitter/tree-sitter-scala)
-- [ ] [scss](https://github.com/elianiva/tree-sitter-scss)
+-
+[ ] [scss](https://github.com/elianiva/tree-sitter-scss)
 - [x] [sparql](https://github.com/BonaBeavis/tree-sitter-sparql) (maintained by @bonabeavis)
 - [x] [supercollider](https://github.com/madskjeldgaard/tree-sitter-supercollider) (maintained by @madskjeldgaard)
 - [x] [svelte](https://github.com/Himujjal/tree-sitter-svelte) (maintained by @elianiva)
